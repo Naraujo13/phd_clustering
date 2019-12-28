@@ -2,6 +2,8 @@
 
 This is a fork from [Genetic-Algorithm-on-K-Means-Clustering](https://github.com/amirdeljouyi/Genetic-Algorithm-on-K-Means-Clustering) and was developed as a task for the Evolutive Systems class of 2019 for the Computer Science Masters Course at UFPel.
 
+The resulting paper is available [here](https://github.com/Naraujo13/phd_clustering/blob/master/Paper.pdf) (in portuguese).
+
 ## Approach
 PHD program clustering using Genetic K-Means and BM25 scores 
 - Corpus of each PHD program made of the title and resume of all their indexed production at the official brazilian plataform [Sucupira](sucupira.capes.gov.br/) -- articles, books, presentations, thesis, and etc, with resume being available mostly for dissertation and thesis only
